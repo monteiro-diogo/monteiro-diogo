@@ -50,6 +50,6 @@
 ---
 
 ### Find Me Here 
-  <a href="https://www.linkedin.com/in/diogo-monteiroo" target="_blank" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/monteiro-diogo" target="_blank" title="LinkedIn Profile">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" style="max-width: 100%;"/>
   </a>
