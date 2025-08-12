@@ -11,21 +11,23 @@
 <div>
     <p>🔹 Passionate about <strong>electronics, programming, and computers</strong></p>
     <p>🔹 Always learning new technologies and improving my skills</p>
-    <p>🔹 Interested in <strong>Electricity, AI, and Automation</strong></p> 
+    <p>🔹 Interested in <strong>Electricity, Robotics, AI, and Automation</strong></p> 
 </div>
 
 ---
 
 ### Languages & Tools
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C Programming Language" style="max-width: 100%;"/>
+  <!-- Languages -->  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++ Programming Language" style="max-width: 100%;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C Programming Language" style="max-width: 100%;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python Programming Language" style="max-width: 100%;"/>  
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" title="MATLAB" style="max-width: 100%;"/>
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40" title="Qt Framework" style="max-width: 100%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" title="Arduino" style="max-width: 100%;"/>
+  -->
 
 ---
 
