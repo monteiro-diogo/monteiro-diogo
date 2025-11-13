@@ -7,8 +7,8 @@ ___
  </div>
 </p>
 <div>
-   👋 Hey, I'm Diogo "Teros" Monteiro and i'm passionate about <strong>electronics, computers and programming</strong>. 
-</p>📖 Always learning new technologies and improving my skills while seeking projects related to <strong>Energy Systems, Robotics, AI and Automation.</strong></p> 
+   👋 Hey, I'm an engineering student and i'm into <strong>electronics, computers and programming</strong>. 
+</p>📖 I'm always learning and i'm currently persuing projects related to <strong>Energy Systems, Robotics and Automation.</strong></p> 
 </div>
 
 ___
