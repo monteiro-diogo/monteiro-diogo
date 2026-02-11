@@ -1,38 +1,44 @@
-___
-<div align="center"> 
+<div align="center">
 
-### About Me  
- <div>
-    <img src="https://github.com/user-attachments/assets/027eed14-3b55-4419-9831-fed9560644c3" width="300" title="Hello :)" style="max-width: 100%;"/>
- </div>
-</p>
-<div>
-   👋 Hey, I'm into <strong>electronics, computers and programming</strong>. 
-</p>📖 Currently persuing projects related to <strong>Energy Systems, Robotics and Automation.</strong></p> 
-</div>
+  <img src="https://github.com/user-attachments/assets/027eed14-3b55-4419-9831-fed9560644c3" width="300" style="max-width: 100%; border-radius: 10px; margin-bottom: 20px;" alt="Profile"/>
 
-___
-
-### Languages & Tools
- <p>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++ Programming Language" style="max-width: 100%;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python Programming Language" style="max-width: 100%;"/>  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" title="MATLAB" style="max-width: 100%;"/>
- </p>
  
-<a href="https://github.com/monteiro-diogo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=monteiro-diogo&layout=compact&theme=dark&langs_count=8&bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=monteiro-diogo&layout=compact&theme=default&langs_count=8&bg_color=00000000">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=monteiro-diogo&layout=compact&theme=default&langs_count=8&bg_color=00000000" alt="Top Languages"/>
-  </picture>
-</a>
-   
-___
+  <p><br/>
+    👋 Hey, I'm into <strong>electronics, computers and programming</strong>.<br>
+    📖 Currently pursuing projects related to <strong>Energy Systems, Robotics and Automation.</strong>
+  </p>
 
-### Find Me Here 
-  <a href="https://www.linkedin.com/in/monteiro-diogo" target="_blank" title="LinkedIn Profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" style="max-width: 100%;"/>
+  ___
+
+
+<table border="0" width="100%">
+  <tr>
+    <td width="20%" align="center" valign="middle">
+      <strong>My Stack</strong>
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+      <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" style="margin: 10px 0;"/>
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
+    </td>
+    <td width="80%" align="center" valign="middle">
+      <a href="https://github.com/monteiro-diogo">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=monteiro-diogo&layout=compact&theme=dark&langs_count=8&hide_border=true&bg_color=00000000&hide_title=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=monteiro-diogo&layout=compact&theme=default&langs_count=8&hide_border=true&bg_color=00000000&hide_title=true">
+          <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=monteiro-diogo&layout=compact&theme=default&langs_count=8&hide_border=true&bg_color=00000000&hide_title=true" alt="Top Languages" width="100%"/>
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+ 
+  <a href="https://www.linkedin.com/in/monteiro-diogo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
   </a>
   
-___
+
+</div>
+
+ ___
