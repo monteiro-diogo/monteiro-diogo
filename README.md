@@ -4,7 +4,7 @@
 
  
   <p><br/>
-    👋 Hey, I'm into <strong>electronics, computers and programming</strong>.<br>
+    👋 Hey. I'm into <strong>electronics, computers and programming</strong>.<br>
     📖 Currently pursuing projects related to <strong>Energy Systems, Robotics and Automation.</strong>
   </p>
 
@@ -14,7 +14,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="20%" align="center" valign="middle">
-      <strong>My Stack</strong>
+      <strong>Stack</strong>
       <br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
       <br/>
