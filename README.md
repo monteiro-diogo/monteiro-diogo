@@ -5,7 +5,7 @@
  
   <p><br/>
     👋 Hey. I'm into <strong>electronics, computers and programming</strong>.<br>
-    📖 Currently pursuing projects related to <strong>Energy Systems, Robotics and Automation.</strong>
+    📖 Currently pursuing projects related to <strong>Energy Systems and Automation.</strong>
   </p>
 
   ___
